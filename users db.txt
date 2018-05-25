@@ -1,0 +1,178 @@
+http://myphotonsolar.in/photonAll/inverter.jsp?name=5100&invid=INV01"
+
+"http://myphotonsolar.in/photonAll/plant.jsp?name=5103&invid=INV01"
+
+"http://myphotonsolar.in/photonAll/inverter.jsp?name=5104&invid=INV01"
+
+href="http://myphotonsolar.in/photonAll/inverter.jsp?name=5101&invid=INV01"
+
+update st_users set ID=24,user_login='photon',user_pass=md5('photon#1'),user_nicename='photon',user_email='info@photon.com',user_url='http://myphotonsolar.in/photonAll/inverter.jsp?name=5100&invid=INV01',user_registered='photonfactory',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='photon' where ID=24;
+
+
+update st_users set ID=24,user_login='photon',user_pass=md5('photon#1'),user_nicename='photon',user_email='info@photon.com',user_url='http://myphotonsolar.in/Photon/inverterdashboard.jsp?name=5108',user_registered='photonfactory',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='photon' where ID=24;
+
+
+update st_users set ID=24,user_login='photon',user_pass=md5('photon#1'),user_nicename='photon',user_email='info@photon.com',user_url='http://myphotonsolar.in/Photon/inverterdashboard.jsp?name=5108',user_registered='photonfactory',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='photon' where ID=24;
+
+
+update st_users set ID=24,user_login='photon',user_pass=md5('photon#1'),user_nicename='photon',user_email='info@photon.com',user_url='http://myphotonsolar.in/photonAll/inverter.jsp?name=5101&invid=INV01',user_registered='photonfactory',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='photon' where ID=24;
+
+
+
+update st_users set ID=16,user_login='photon5',user_pass=md5('smarttrak#55'),user_nicename='chirec',user_email='chirec@smarttraksolar.com',user_url='http://myphotonsolar.in/photonAll/inverter.jsp?name=5101&invid=INV01',user_registered='chirec',user_activation_key='0000-00-00 00:00:00',user_status='5',display_name='Chirec' where ID=16;
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('16','karvy',md5('karvy123'),'karvy','info@smarttrak.com','http://portalsmart.in/karvy/plantview.jsp','0000-00-00 00:00:00','','1','karvy')
+
+update st_users set ID=16,user_login='karvy',user_pass=md5('karvy123'),user_nicename='karvy',user_email='info@@karvy.com',user_url='http://portalsmart.in/karvy/plantview.jsp',user_registered='karvy',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='karvy' where ID=16;
+
+
+http://portalsmart.in/Addwatt/plantview.jsp
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('18','addwatt',md5('addwatt123'),'Addwatt','info@smarttrak.com','http://portalsmart.in/Addwatt/plantview.jsp','0000-00-00 00:00:00','','1','Addwatt')
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('19','arunvidyuth',md5('arunvidyuth123'),'Arunvidyuth','info@smarttrak.com','http://portalsmart.in/ArunVidyuth/trackerdash.jsp','0000-00-00 00:00:00','','1','ArunVidyuth')
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('21','sbh',md5('sbh123'),'sbh','info@smarttrak.com','http://myphotonsolar.in/SBH/inverter.jsp?name=5107&invid=INV01','0000-00-00 00:00:00','','1','sbh');
+
+
+ http://localhost:4532/SBH/inverter.jsp?name=5107&invid=INV01
+
+update st_users set ID=20,user_login='photon7',user_pass=md5('smarttrak#57'),user_nicename='sbh',user_email='info@smarttrak.com',user_url='http://myphotonsolar.in/SBH/inverter.jsp?name=5107&invid=INV01',user_registered='photon',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='SBH' where ID=20;
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('21','photon7',md5('smarttrak57'),'sbh','info@smarttrak.com','http://myphotonsolar.in/SBH/inverter.jsp?name=5107&invid=INV01','0000-00-00 00:00:00','','1','sbh');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('36','cbpur',md5('cbpur123'),'CBPUR','info@smarttrak.com','http://portalsmart.in/CBPUR/invdash.jsp','0000-00-00 00:00:00','','1','CBPUR');
+
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('22','karvy',md5('karvy123'),'karvy','info@smarttrak.com','http://117.254.82.226:8080/Karvy/plantview.jsp','0000-00-00 00:00:00','','1','karvy')
+
+update st_users set ID=22,user_login='karvy',user_pass=md5('karvy789'),user_nicename='karvy',user_email='info@smart.com',user_url='http://117.254.82.226:8080/Karvy/plantview.jsp',user_registered='karvy',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='karvy' where ID=22;
+
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('23','photon8',md5('smarttrak58'),'sbhsant','info@smarttrak.com','http://myphotonsolar.in/SBH/inverter.jsp?name=5109&invid=INV01','0000-00-00 00:00:00','','1','sbhsanat');
+
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('24','photon9',md5('smarttrak59'),'PhotonFactory','info@smarttrak.com','http://myphotonsolar.in/PhotonFactory/inverterdashboard.jsp?name=5108','0000-00-00 00:00:00','','1','photonfactory');
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('25','illios',md5('illios123'),'Illios','illios.com','http://portalsmart.in/Illios/trackerdash.jsp','0000-00-00 00:00:00','','1','Illios');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('24','photon9',md5('smarttrak59'),'PhotonFactory','info@smarttrak.com','http://myphotonsolar.in/PhotonFactory/inverterdashboard.jsp?name=5108','0000-00-00 00:00:00','','1','photonfactory');
+
+
+update st_users set ID=24,user_login='photon9',user_pass=md5('smarttrak59'),user_nicename='photonfactory',user_email='info@photon.com',user_url='http://myphotonsolar.in/Photon/inverterdashboard.jsp?name=5108',user_registered='photonfactory',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='photon' where ID=24;
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('26','photon10',md5('smarttrak60'),'sbh','info@smarttrak.com','http://myphotonsolar.in/SBH/inverter.jsp?name=5113&invid=INV01','0000-00-00 00:00:00','','1','sbh3');
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('27','photon11',md5('smarttrak61'),'manage','info@smarttrak.com','http://myphotonsolar.in/Photon/inverterdashboard.jsp?name=5112','0000-00-00 00:00:00','','1','manage');
+
+
+update st_users set ID=24,user_login='photon',user_pass=md5('photon#1'),user_nicename='photon',user_email='info@photon.com',user_url='http://myphotonsolar.in/Photon/inverterdashboard.jsp?name=5108',user_registered='photonfactory',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='photon' where ID=24;
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('28','kec',md5('kec123'),'kec','info@kec.com','http://portalsmart.in/KEC/plantview.jsp','0000-00-00 00:00:00','','1','KEC');
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('29','admin',md5('admin'),'AdminPortal','info@smarttrak.com','http://portalsmart.in:8090/portaladmin/trackerdash.jsp','0000-00-00 00:00:00','','1','Smart Admin');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('30','sembcorp',md5('sembcorp'),'sembcorp','info@smarttrak.com','http://portalsmart.in:8080/SEMBCORP/dashboard.jsp?name=5006','0000-00-00 00:00:00','','1','Sembcorp');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('31','enrich',md5('enrich123'),'Enrich','info@smarttrak.com','http://portalsmart.in:8080/Enrich/trackerdash.jsp','0000-00-00 00:00:00','','1','Enrich');
+
+
+update st_users set ID=24,user_login='photon',user_pass=md5('photon#1'),user_nicename='photon',user_email='info@photon.com',user_url='http://myphotonsolar.in/Photon/inverterdashboard.jsp?name=5108',user_registered='photonfactory',user_activation_key='0000-00-00 00:00:00',user_status='1',display_name='photon' where ID=24;
+
+update st_users set  user_pass=md5('sembcorp123') where ID ='30';
+
+update st_users set user_url ='http://portalsmart.in/SEMBCORP/inverter.jsp?name=5006&invid=INV01' where ID ='30'
+
+http://portalsmart.in/SEMBCORP/inverter.jsp?name=5006&invid=INV01
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('32','staten',md5('staten123'),'staten','info@smarttrak.com','http://portalsmart.in/Staten/inverterdashboard.jsp?name=5016','0000-00-00 00:00:00','','1','staten');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('33','photon12',md5('smarttrak62'),'Western','info@smarttrak.com','http://myphotonsolar.in/Western/inverter.jsp?name=5115&invid=INV01','0000-00-00 00:00:00','','1',' WESTERN');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('34','adani',md5('adani123'),'adani','info@smarttrak.com','http://portalsmart.in:8080/Adhani/trackerdash.jsp','0000-00-00 00:00:00','','1',' adani');
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('39','seundo',md5('seundo123'),'Seundo2','info@smarttrak.com','http://portalsmart.in/Seundo2/invdash.jsp','0000-00-00 00:00:00','','1',' seundo2');
+
+update st_users set user_login ='SEPL1', user_pass =md5(energy1234)   where ID ='35'
+
+update st_users set user_url ='http://portalsmart.in/Adhani/trackerdash.jsp' where ID ='34'
+
+
+update st_users set user_login ='gm', user_pass=md5('gm123') where ID ='40';
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('37','mi',md5('mi123'),'Mi','info@smarttrak.com','http://portalsmart.in/Mi/weatherstation.jsp?name=5020','0000-00-00 00:00:00','','1',' \
+
+update st_users set user_login ='sunpremesolar', user_pass =md5(sunpreme@123)   where ID ='32'
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('39','gmit',md5('gmit123'),'GMIT','info@smarttrak.com','http://portalsmart.in/Seundo2/invdash.jsp','0000-00-00 00:00:00','','1',' Seundo2');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('39','gmit',md5('gmit123'),'GMIT','info@smarttrak.com','http://portalsmart.in/Seundo2/invdash.jsp','0000-00-00 00:00:00','','1','Seundo2');
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('40','china',md5('china123'),'china','info@smarttrak.com','http://portalsmart.in/Seundo2/invdash.jsp','0000-00-00 00:00:00','','1','Seundo2');
+
+update st_users set user_nicename ='GMIT';
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('41','GMIT@SEPL',md5('GMIT@2017'),'Gmit','info@smarttrak.com','http://portalsmart.in/Seundo2/invdash.jsp','0000-00-00 00:00:00','','1','GMIT');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('43','photon13',md5('smarttrak63'),'chrec','info@smarttrak.com','http://portalsmart.in/Chirec/plant.jsp?name=5116','0000-00-00 00:00:00','','1','chirec');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('44','guest',md5('guest123'),'chrec','info@smarttrak.com','http://portalsmart.in/Purizon/plantview.jsp','0000-00-00 00:00:00','','1','Purizon');
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('45','client','client123','chrec','info@smarttrak.com','http://portalsmart.in/Purizon/plantview.jsp','0000-00-00 00:00:00','','1','Purizon');
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('46','guest',md5('guest23'),'CBPUR','info@smarttrak.com','http://portalsmart.in/CBPUR/plantview.jsp','0000-00-00 00:00:00','','1','CBPUR');
+
+
+
+
+update st_users set user_login ='ramapriya', user_pass=md5('ramapriya123') where ID ='46';
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('1','guest',md5('guest123'),'VTS','info@smarttrak.com','http://202.153.42.247:8080/smarttrak/Track?account=mahesh&password=password','0000-00-00 00:00:00','','1','VTS');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('2','demo',md5('demo12345'),'VTS','info@smarttrak.com','http://202.153.42.247:8080/smarttrak/Track?account=demo&password=$martTr@k','0000-00-00 00:00:00','','1','VTS');
+
+
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('47','photon14',md5('smarttrak66'),'Rajesh','info@smarttrak.com',' http://portalsmart.in:8080/Rajesh/inverterdashboard.jsp?name=5119','0000-00-00 00:00:00','','1',' Rajesh');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('48','photon15',md5('smarttrak67'),'Nitiraj','info@smarttrak.com',' http://portalsmart.in:8080/Nitiraj/inverterdashboard.jsp?name=5118','0000-00-00 00:00:00','','1',' Nitiraj');
+
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('49','albal',md5('albal123'),'Albal','info@smarttrak.com',' http://portalsmart.in:8090/Albal/inverterdashboard.jsp?name=5026','0000-00-00 00:00:00','','1',' Albal');
+
+insert into st_users(ID,user_login,user_pass,user_nicename,user_email,user_url,user_registered,user_activation_key,user_status,display_name) values('49','albal',md5('albal123'),'Albal','info@smarttrak.com',':8090/Albal/inverterdashboard.jsp?name=5026','0000-00-00 00:00:00','','1',' Albal');
+
+
